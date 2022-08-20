@@ -1,4 +1,10 @@
 ---
 label: IDK
 hide_body: false
-fields: []
+fields:
+- name: text_label
+  type: text
+  config:
+    required: false
+  label: Text Label
+  description: this is the desc
